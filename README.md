@@ -32,6 +32,13 @@ App dedicado a lembrete de Regar plantas bem como o cadastro das mesmas e suas e
 </p>.
 </p>.
 
+## Tela Cronograma de Horarios Agendados 
+<p align="center">
+<a href=target="blank"><img align="center" src="https://github.com/Lucas-Quandt/PlantManager/assets/103226578/187ff7a3-abe8-4f7a-8532-4ab713d9c9b1"alt=""  /a>
+</p>.
+</p>.
+
+
 
 
 
