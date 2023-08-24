@@ -1,6 +1,11 @@
 # APP PlantManager
 App dedicado a lembrete de Regar plantas bem como o cadastro das mesmas e suas espécies, com o intuito de facilitar os cuidados e a preservação da flora.
 
+### Software utilizados:
+<p align="left">
+<a href=target="blank"><img align="center" src="https://github.com/Lucas-Quandt/AplicativoPETMEET/assets/103226578/4247b7b0-95ee-4152-b1a4-342e369392a9"alt="" height="60" width="120"/a> 
+</p>
+
 # Imagens APP PlantManager   
 ## Tela Inicial:
 <p align="center">
